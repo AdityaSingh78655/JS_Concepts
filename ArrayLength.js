@@ -6,4 +6,4 @@ console.log(b.length);
 
 
 // length is a property that's why we can't use parenthesis 
-// pop is a method that's why we use parenthesis-> ()
+// pop is a method that's why we use parenthesis-> 
